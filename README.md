@@ -2,6 +2,11 @@
 
 Data repository for the Basic Bible App.
 
+''
+https://raw.githubusercontent.com/PopGTN/bible-data/main/catalog/testing/ebible_list.json
+''
+
+
 This repo now separates:
 
 - production-ready catalogs that are intended to drive in-app downloads
