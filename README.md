@@ -3,7 +3,7 @@
 Data repository for the Basic Bible App.
 
 ''
-https://raw.githubusercontent.com/PopGTN/bible-data/main/catalog/testing/ebible_list.json
+https://raw.githubusercontent.com/Atrion/bible-data/main/catalog/testing/ebible_list.json
 ''
 
 

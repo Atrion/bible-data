@@ -23,7 +23,7 @@
       "artifacts": [
         {
           "format": "sqlite",
-          "downloadUrl": "https://raw.githubusercontent.com/PopGTN/bible-data/main/English/kjv/kjv.sqlite",
+          "downloadUrl": "https://raw.githubusercontent.com/Atrion/bible-data/main/English/kjv/kjv.sqlite",
           "fileName": "kjv.sqlite",
           "parserVersion": 4,
           "schemaVersion": 1,
@@ -33,7 +33,7 @@
         },
         {
           "format": "usfx",
-          "downloadUrl": "https://raw.githubusercontent.com/PopGTN/bible-data/main/English/kjv/eng-kjv2006_usfx.xml",
+          "downloadUrl": "https://raw.githubusercontent.com/Atrion/bible-data/main/English/kjv/eng-kjv2006_usfx.xml",
           "fileName": "eng-kjv2006_usfx.xml",
           "parserVersion": 4,
           "sizeBytes": 12180470,
@@ -62,7 +62,7 @@
       "artifacts": [
         {
           "format": "osis",
-          "downloadUrl": "https://raw.githubusercontent.com/PopGTN/bible-data/main/English/asv/asv_osis.xml",
+          "downloadUrl": "https://raw.githubusercontent.com/Atrion/bible-data/main/English/asv/asv_osis.xml",
           "fileName": "asv_osis.xml",
           "parserVersion": 4,
           "sizeBytes": 5529431,
@@ -91,7 +91,7 @@
       "artifacts": [
         {
           "format": "sqlite",
-          "downloadUrl": "https://raw.githubusercontent.com/PopGTN/bible-data/main/English/web/web.sqlite",
+          "downloadUrl": "https://raw.githubusercontent.com/Atrion/bible-data/main/English/web/web.sqlite",
           "fileName": "web.sqlite",
           "parserVersion": 4,
           "schemaVersion": 1,
@@ -101,7 +101,7 @@
         },
         {
           "format": "usfx",
-          "downloadUrl": "https://raw.githubusercontent.com/PopGTN/bible-data/main/English/web/eng-web.usfx.xml",
+          "downloadUrl": "https://raw.githubusercontent.com/Atrion/bible-data/main/English/web/eng-web.usfx.xml",
           "fileName": "eng-web.usfx.xml",
           "parserVersion": 4,
           "sizeBytes": 6210746,
